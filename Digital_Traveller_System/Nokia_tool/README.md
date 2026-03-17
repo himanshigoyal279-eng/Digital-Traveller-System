@@ -1,4 +1,4 @@
-# VijayTools - Enterprise PWA
+# NokiaTools - Enterprise PWA
 
 A high-performance, Enterprise-grade React Progressive Web App (PWA) for product management with RFID scanning capabilities.
 
